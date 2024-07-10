@@ -1,0 +1,105 @@
+"","category","subcategory","ID","Description","GeneRatio","BgRatio","pvalue","p.adjust","qvalue","geneID","Count"
+"ko00590","Metabolism","Lipid metabolism","ko00590","Arachidonic acid metabolism","5/47","25/4019",7.84841550657595e-06,0.000816235212683899,0.000735272610616063,"K01832/K18592/K01254/K17726/K17728",5
+"ko02010","Environmental Information Processing","Membrane transport","ko02010","ABC transporters","5/47","41/4019",9.62451225121204e-05,0.00500474637063026,0.00450832415977827,"K11004/K05658/K05659/K18104/K02036",5
+"ko04142","Cellular Processes","Transport and catabolism","ko04142","Lysosome","6/47","81/4019",0.000308800718275635,0.0107050915668887,0.00964325050053737,"K01365/K01368/K01371/K01375/K09599/K09600",6
+"ko00480","Metabolism","Metabolism of other amino acids","ko00480","Glutathione metabolism","4/47","32/4019",0.000464632666699008,0.0120804493341742,0.0108821861411083,"K18592/K00681/K00797/K11204",4
+"ko04976","Organismal Systems","Digestive system","ko04976","Bile secretion","4/47","39/4019",0.00100094172903776,0.0208195879639855,0.0187544871335497,"K14349/K05658/K05659/K14158",4
+"ko04210","Cellular Processes","Cell growth and death","ko04210","Apoptosis","4/47","57/4019",0.00412213248644161,0.0714502964316545,0.0643631212795269,"K01365/K01368/K01371/K01375",4
+"ko00561","Metabolism","Lipid metabolism","ko00561","Glycerolipid metabolism","3/47","39/4019",0.0102041063920919,0.151603866396794,0.136566235924238,"K07407/K14073/K14076",3
+"ko04212","Organismal Systems","Aging","ko04212","Longevity regulating pathway - worm","3/47","41/4019",0.0117102623407104,0.152233410429235,0.137133335305687,"K08341/K14035/K11204",3
+"ko04139","Cellular Processes","Transport and catabolism","ko04139","Mitophagy - yeast","2/47","17/4019",0.0162815153322182,0.18131113845354,0.16332683524661,"K17065/K08341",2
+"ko04612","Organismal Systems","Immune system","ko04612","Antigen processing and presentation","2/47","18/4019",0.0181814901179841,0.18131113845354,0.16332683524661,"K01365/K01368",2
+"ko05323","Human Diseases","Immune disease","ko05323","Rheumatoid arthritis","2/47","19/4019",0.0201706017304459,0.18131113845354,0.16332683524661,"K01365/K01371",2
+"ko04621","Organismal Systems","Immune system","ko04621","NOD-like receptor signaling pathway","3/47","52/4019",0.0222044742177036,0.18131113845354,0.16332683524661,"K17065/K08341/K09849",3
+"ko00360","Metabolism","Amino acid metabolism","ko00360","Phenylalanine metabolism","2/47","21/4019",0.0244072686379766,0.18131113845354,0.16332683524661,"K10775/K00500",2
+"ko00790","Metabolism","Metabolism of cofactors and vitamins","ko00790","Folate biosynthesis","2/47","21/4019",0.0244072686379766,0.18131113845354,0.16332683524661,"K00502/K00500",2
+"ko00830","Metabolism","Metabolism of cofactors and vitamins","ko00830","Retinol metabolism","2/47","30/4019",0.0473168034368582,0.32806317049555,0.295522491640729,"K07424/K00157",2
+"ko00380","Metabolism","Amino acid metabolism","ko00380","Tryptophan metabolism","2/47","36/4019",0.0655848195853078,0.40122477863953,0.361427179138848,"K00502/K00157",2
+"ko04668","Environmental Information Processing","Signal transduction","ko04668","TNF signaling pathway","2/47","36/4019",0.0655848195853078,0.40122477863953,0.361427179138848,"K17065/K09849",2
+"ko04214","Cellular Processes","Cell growth and death","ko04214","Apoptosis - fly","2/47","41/4019",0.0823122657150224,0.464553808655036,0.418474584719618,"K03262/K17065",2
+"ko00270","Metabolism","Amino acid metabolism","ko00270","Cysteine and methionine metabolism","2/47","42/4019",0.0858024326239108,0.464553808655036,0.418474584719618,"K00797/K11204",2
+"ko04217","Cellular Processes","Cell growth and death","ko04217","Necroptosis","2/47","43/4019",0.0893372708951993,0.464553808655036,0.418474584719618,"K17065/K09849",2
+"ko00591","Metabolism","Lipid metabolism","ko00591","Linoleic acid metabolism","1/47","10/4019",0.111096317731469,0.502348567133597,0.452520470393625,"K07424",1
+"ko02024","Cellular Processes","Cellular community - prokaryotes","ko02024","Quorum sensing","1/47","10/4019",0.111096317731469,0.502348567133597,0.452520470393625,"K01218",1
+"ko04977","Organismal Systems","Digestive system","ko04977","Vitamin digestion and absorption","1/47","10/4019",0.111096317731469,0.502348567133597,0.452520470393625,"K14073",1
+"ko04145","Cellular Processes","Transport and catabolism","ko04145","Phagosome","2/47","53/4019",0.126832604805069,0.5496079541553,0.495092185423296,"K01365/K01368",2
+"ko02020","Environmental Information Processing","Signal transduction","ko02020","Two-component system","1/47","14/4019",0.15206873277578,0.56811027771196,0.511759258262798,"K01179",1
+"ko04973","Organismal Systems","Digestive system","ko04973","Carbohydrate digestion and absorption","1/47","14/4019",0.15206873277578,0.56811027771196,0.511759258262798,"K14158",1
+"ko00340","Metabolism","Amino acid metabolism","ko00340","Histidine metabolism","1/47","15/4019",0.16201948672323,0.56811027771196,0.511759258262798,"K01745",1
+"ko00982","Metabolism","Xenobiotics biodegradation and metabolism","ko00982","Drug metabolism - cytochrome P450","1/47","16/4019",0.171855921319636,0.56811027771196,0.511759258262798,"K00157",1
+"ko04975","Organismal Systems","Digestive system","ko04975","Fat digestion and absorption","1/47","16/4019",0.171855921319636,0.56811027771196,0.511759258262798,"K14073",1
+"ko00785","Metabolism","Metabolism of cofactors and vitamins","ko00785","Lipoic acid metabolism","1/47","17/4019",0.181579321693849,0.56811027771196,0.511759258262798,"K00161",1
+"ko00920","Metabolism","Energy metabolism","ko00920","Sulfur metabolism","1/47","17/4019",0.181579321693849,0.56811027771196,0.511759258262798,"K00988",1
+"ko04979","Organismal Systems","Digestive system","ko04979","Cholesterol metabolism","1/47","17/4019",0.181579321693849,0.56811027771196,0.511759258262798,"K14349",1
+"ko01120","Metabolism","Global and overview maps","ko01120","Microbial metabolism in diverse environments","4/47","194/4019",0.189651359662744,0.56811027771196,0.511759258262798,"K00988/K00161/K00106/K00157",4
+"ko04216","Cellular Processes","Cell growth and death","ko04216","Ferroptosis","1/47","18/4019",0.191190958845371,0.56811027771196,0.511759258262798,"K11204",1
+"ko05204","Human Diseases","Cancer: overview","ko05204","Chemical carcinogenesis - DNA adducts","1/47","18/4019",0.191190958845371,0.56811027771196,0.511759258262798,"K07424",1
+"ko05133","Human Diseases","Infectious disease: bacterial","ko05133","Pertussis","1/47","19/4019",0.2006920897962,0.574966621186154,0.517935519084694,"K11004",1
+"ko00140","Metabolism","Lipid metabolism","ko00140","Steroid hormone biosynthesis","1/47","20/4019",0.210083957741095,0.574966621186154,0.517935519084694,"K07424",1
+"ko04630","Environmental Information Processing","Signal transduction","ko04630","JAK-STAT signaling pathway","1/47","20/4019",0.210083957741095,0.574966621186154,0.517935519084694,"K00157",1
+"ko04136","Cellular Processes","Transport and catabolism","ko04136","Autophagy - other","1/47","21/4019",0.219367792196251,0.584980779190002,0.52695636991812,"K08341",1
+"ko00230","Metabolism","Nucleotide metabolism","ko00230","Purine metabolism","2/47","77/4019",0.227061011736344,0.585259178309322,0.527207154549895,"K00988/K00106",2
+"ko04978","Organismal Systems","Digestive system","ko04978","Mineral absorption","1/47","23/4019",0.237616211190482,0.585259178309322,0.527207154549895,"K14158",1
+"ko00020","Metabolism","Carbohydrate metabolism","ko00020","Citrate cycle (TCA cycle)","1/47","25/4019",0.255446914889189,0.585259178309322,0.527207154549895,"K00161",1
+"ko04620","Organismal Systems","Immune system","ko04620","Toll-like receptor signaling pathway","1/47","25/4019",0.255446914889189,0.585259178309322,0.527207154549895,"K01371",1
+"ko00052","Metabolism","Carbohydrate metabolism","ko00052","Galactose metabolism","1/47","26/4019",0.26420855610106,0.585259178309322,0.527207154549895,"K07407",1
+"ko00350","Metabolism","Amino acid metabolism","ko00350","Tyrosine metabolism","1/47","26/4019",0.26420855610106,0.585259178309322,0.527207154549895,"K00157",1
+"ko00983","Metabolism","Xenobiotics biodegradation and metabolism","ko00983","Drug metabolism - other enzymes","1/47","27/4019",0.272869261801848,0.585259178309322,0.527207154549895,"K00106",1
+"ko01210","Metabolism","Global and overview maps","ko01210","2-Oxocarboxylic acid metabolism","1/47","28/4019",0.281430169791656,0.585259178309322,0.527207154549895,"K00161",1
+"ko04064","Environmental Information Processing","Signal transduction","ko04064","NF-kappa B signaling pathway","1/47","28/4019",0.281430169791656,0.585259178309322,0.527207154549895,"K09849",1
+"ko04657","Organismal Systems","Immune system","ko04657","IL-17 signaling pathway","1/47","28/4019",0.281430169791656,0.585259178309322,0.527207154549895,"K09849",1
+"ko04927","Organismal Systems","Endocrine system","ko04927","Cortisol synthesis and secretion","1/47","28/4019",0.281430169791656,0.585259178309322,0.527207154549895,"K14349",1
+"ko03250","Genetic Information Processing","Information processing in viruses","ko03250","Viral life cycle - HIV-1","1/47","29/4019",0.289892405326558,0.585259178309322,0.527207154549895,"K14754",1
+"ko00051","Metabolism","Carbohydrate metabolism","ko00051","Fructose and mannose metabolism","1/47","30/4019",0.298257081253789,0.585259178309322,0.527207154549895,"K01218",1
+"ko00760","Metabolism","Metabolism of cofactors and vitamins","ko00760","Nicotinate and nicotinamide metabolism","1/47","30/4019",0.298257081253789,0.585259178309322,0.527207154549895,"K00157",1
+"ko04974","Organismal Systems","Digestive system","ko04974","Protein digestion and absorption","1/47","32/4019",0.314698144431156,0.593704925727132,0.534815165887801,"K08606",1
+"ko04140","Cellular Processes","Transport and catabolism","ko04140","Autophagy - animal","2/47","98/4019",0.318700509341446,0.593704925727132,0.534815165887801,"K01365/K08341",2
+"ko04727","Organismal Systems","Nervous system","ko04727","GABAergic synapse","1/47","34/4019",0.330762018972753,0.593704925727132,0.534815165887801,"K08341",1
+"ko00600","Metabolism","Lipid metabolism","ko00600","Sphingolipid metabolism","1/47","35/4019",0.338655164545721,0.593704925727132,0.534815165887801,"K07407",1
+"ko05230","Human Diseases","Cancer: overview","ko05230","Central carbon metabolism in cancer","1/47","35/4019",0.338655164545721,0.593704925727132,0.534815165887801,"K00161",1
+"ko00330","Metabolism","Amino acid metabolism","ko00330","Arginine and proline metabolism","1/47","36/4019",0.346457174401733,0.593704925727132,0.534815165887801,"K00797",1
+"ko00280","Metabolism","Amino acid metabolism","ko00280","Valine, leucine and isoleucine degradation","1/47","37/4019",0.354169078193628,0.593704925727132,0.534815165887801,"K00157",1
+"ko05131","Human Diseases","Infectious disease: bacterial","ko05131","Shigellosis","2/47","108/4019",0.361785778971593,0.593704925727132,0.534815165887801,"K09849/K16944",2
+"ko00500","Metabolism","Carbohydrate metabolism","ko00500","Starch and sucrose metabolism","1/47","39/4019",0.369326629432424,0.593704925727132,0.534815165887801,"K01179",1
+"ko04380","Organismal Systems","Development and regeneration","ko04380","Osteoclast differentiation","1/47","39/4019",0.369326629432424,0.593704925727132,0.534815165887801,"K01371",1
+"ko00010","Metabolism","Carbohydrate metabolism","ko00010","Glycolysis / Gluconeogenesis","1/47","40/4019",0.376774279788372,0.593704925727132,0.534815165887801,"K00161",1
+"ko04066","Environmental Information Processing","Signal transduction","ko04066","HIF-1 signaling pathway","1/47","40/4019",0.376774279788372,0.593704925727132,0.534815165887801,"K00161",1
+"ko05222","Human Diseases","Cancer: specific types","ko05222","Small cell lung cancer","1/47","40/4019",0.376774279788372,0.593704925727132,0.534815165887801,"K09849",1
+"ko00620","Metabolism","Carbohydrate metabolism","ko00620","Pyruvate metabolism","1/47","42/4019",0.391412254469872,0.598630506836274,0.539252177210814,"K00161",1
+"ko05162","Human Diseases","Infectious disease: viral","ko05162","Measles","1/47","42/4019",0.391412254469872,0.598630506836274,0.539252177210814,"K14754",1
+"ko04922","Organismal Systems","Endocrine system","ko04922","Glucagon signaling pathway","1/47","45/4019",0.412740350206901,0.621932744731239,0.560243059525105,"K00161",1
+"ko04138","Cellular Processes","Transport and catabolism","ko04138","Autophagy - yeast","1/47","50/4019",0.446672487417468,0.621932744731239,0.560243059525105,"K08341",1
+"ko04361","Organismal Systems","Development and regeneration","ko04361","Axon regeneration","1/47","50/4019",0.446672487417468,0.621932744731239,0.560243059525105,"K00502",1
+"ko04611","Organismal Systems","Immune system","ko04611","Platelet activation","1/47","50/4019",0.446672487417468,0.621932744731239,0.560243059525105,"K01832",1
+"ko05418","Human Diseases","Cardiovascular disease","ko05418","Fluid shear stress and atherosclerosis","1/47","51/4019",0.453224866629204,0.621932744731239,0.560243059525105,"K01365",1
+"ko05226","Human Diseases","Cancer: specific types","ko05226","Gastric cancer","1/47","52/4019",0.459701285799674,0.621932744731239,0.560243059525105,"K05658",1
+"ko04726","Organismal Systems","Nervous system","ko04726","Serotonergic synapse","1/47","53/4019",0.466102606588032,0.621932744731239,0.560243059525105,"K00502",1
+"ko04972","Organismal Systems","Digestive system","ko04972","Pancreatic secretion","1/47","53/4019",0.466102606588032,0.621932744731239,0.560243059525105,"K14073",1
+"ko03018","Genetic Information Processing","Folding, sorting and degradation","ko03018","RNA degradation","1/47","54/4019",0.472429681093922,0.621932744731239,0.560243059525105,"K03679",1
+"ko05152","Human Diseases","Infectious disease: bacterial","ko05152","Tuberculosis","1/47","54/4019",0.472429681093922,0.621932744731239,0.560243059525105,"K01368",1
+"ko05164","Human Diseases","Infectious disease: viral","ko05164","Influenza A","1/47","54/4019",0.472429681093922,0.621932744731239,0.560243059525105,"K14754",1
+"ko04146","Cellular Processes","Transport and catabolism","ko04146","Peroxisome","1/47","56/4019",0.484864452480286,0.622542013061107,0.560791894356666,"K00106",1
+"ko05160","Human Diseases","Infectious disease: viral","ko05160","Hepatitis C","1/47","56/4019",0.484864452480286,0.622542013061107,0.560791894356666,"K14754",1
+"ko01232","Metabolism","Global and overview maps","ko01232","Nucleotide metabolism","1/47","59/4019",0.502980526679306,0.630041279741454,0.56754730664969,"K00106",1
+"ko05168","Human Diseases","Infectious disease: viral","ko05168","Herpes simplex virus 1 infection","1/47","59/4019",0.502980526679306,0.630041279741454,0.56754730664969,"K09849",1
+"ko04068","Environmental Information Processing","Signal transduction","ko04068","FoxO signaling pathway","1/47","60/4019",0.508879495175789,0.630041279741454,0.56754730664969,"K08341",1
+"ko04137","Cellular Processes","Transport and catabolism","ko04137","Mitophagy - animal","1/47","62/4019",0.520472589394655,0.636813521141695,0.573647807506183,"K08341",1
+"ko01230","Metabolism","Global and overview maps","ko01230","Biosynthesis of amino acids","1/47","66/4019",0.542860924847646,0.648937197519025,0.584568932987786,"K00500",1
+"ko04934","Human Diseases","Endocrine and metabolic disease","ko04934","Cushing syndrome","1/47","66/4019",0.542860924847646,0.648937197519025,0.584568932987786,"K14349",1
+"ko05169","Human Diseases","Infectious disease: viral","ko05169","Epstein-Barr virus infection","1/47","70/4019",0.564225205055563,0.666811605974757,0.600670373803171,"K09849",1
+"ko05207","Human Diseases","Cancer: overview","ko05207","Chemical carcinogenesis - receptor activation","1/47","72/4019",0.574537737885797,0.671369940900257,0.604776566195576,"K07424",1
+"ko05206","Human Diseases","Cancer: overview","ko05206","MicroRNAs in cancer","1/47","76/4019",0.594451306623607,0.686921509876168,0.618785570637438,"K05658",1
+"ko05202","Human Diseases","Cancer: overview","ko05202","Transcriptional misregulation in cancer","1/47","80/4019",0.613451747812213,0.701087711785387,0.631546622964569,"K09383",1
+"ko05163","Human Diseases","Infectious disease: viral","ko05163","Human cytomegalovirus infection","1/47","82/4019",0.622622429961281,0.703834051260578,0.634020552248902,"K09849",1
+"ko05203","Human Diseases","Cancer: overview","ko05203","Viral carcinogenesis","1/47","86/4019",0.640329492071798,0.716067388983516,0.645040461736163,"K09849",1
+"ko05170","Human Diseases","Infectious disease: viral","ko05170","Human immunodeficiency virus 1 infection","1/47","93/4019",0.66938032104167,0.72349518682236,0.651731494202328,"K09849",1
+"ko05205","Human Diseases","Cancer: overview","ko05205","Proteoglycans in cancer","1/47","94/4019",0.673338325349118,0.72349518682236,0.651731494202328,"K01365",1
+"ko01200","Metabolism","Global and overview maps","ko01200","Carbon metabolism","1/47","95/4019",0.677249942854492,0.72349518682236,0.651731494202328,"K00161",1
+"ko04120","Genetic Information Processing","Folding, sorting and degradation","ko04120","Ubiquitin mediated proteolysis","1/47","97/4019",0.684936139327574,0.72349518682236,0.651731494202328,"K20217",1
+"ko05017","Human Diseases","Neurodegenerative disease","ko05017","Spinocerebellar ataxia","1/47","97/4019",0.684936139327574,0.72349518682236,0.651731494202328,"K19323",1
+"ko05415","Human Diseases","Cardiovascular disease","ko05415","Diabetic cardiomyopathy","1/47","98/4019",0.688711764378977,0.72349518682236,0.651731494202328,"K00161",1
+"ko05171","Human Diseases","Infectious disease: viral","ko05171","Coronavirus disease - COVID-19","1/47","112/4019",0.737143343974048,0.76662907773301,0.690586922249372,"K14754",1
+"ko01240","Metabolism","Global and overview maps","ko01240","Biosynthesis of cofactors","1/47","122/4019",0.767138920165837,0.782180859776932,0.704596118624969,"K11204",1
+"ko05165","Human Diseases","Infectious disease: viral","ko05165","Human papillomavirus infection","1/47","122/4019",0.767138920165837,0.782180859776932,0.704596118624969,"K14754",1
+"ko01110","Metabolism","Global and overview maps","ko01110","Biosynthesis of secondary metabolites","3/47","382/4019",0.83818505948826,0.846322778512418,0.76237578226321,"K10775/K00161/K00106",3
+"ko05200","Human Diseases","Cancer: overview","ko05200","Pathways in cancer","1/47","182/4019",0.888189307188828,0.888189307188828,0.800089558095199,"K09849",1
