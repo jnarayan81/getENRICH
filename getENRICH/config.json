@@ -1,0 +1,27 @@
+{
+  "input_files": {
+    "background_genes_sb_1": "/home/bajay/Ajay_Bhatia/EXAMPLE/input/1background_genes.sb",
+    "kegg_annotationTOgenes_sb_3": "/home/bajay/Ajay_Bhatia/EXAMPLE/input/3kegg_annotationTOgenes.sb",
+    "genes_of_interest_sb_2": "/home/bajay/Ajay_Bhatia/EXAMPLE/input/2genes_of_interest.sb"
+  },
+  "output_files": {
+    "outdir": "/home/bajay/Ajay_Bhatia/EXAMPLE/out",
+    "graph": "graph",
+    "pathway": "pathway",
+    "enrichment_KEGG_results_csv": "enrichment_KEGG_results.csv"
+  },
+  "scripts": {
+    "clusterProfiler_script": "ScriptBase/clusterProfiler_script.R",
+    "pathview_graph_based_on_p_adjust": "ScriptBase/pathview_graph_based_on_p_adjust.R",
+    "pathview_graph_based_on_pvalue": "ScriptBase/pathview_graph_based_on_pvalue.R",
+    "plot_enrichment_graphs": "ScriptBase/plot_enrichment_graphs.R",
+    "pubMed_trends_plots_padjust": "ScriptBase/pubMed_trends_plots_padjust.R",
+    "pubMed_trends_plots_pvalue": "ScriptBase/pubMed_trends_plots_pvalue.R",
+    "treeplot_padjust": "ScriptBase/treeplot_padjust.R",
+    "treeplot_pvalue": "ScriptBase/treeplot_pvalue.R",
+    "upset_plot_pvalue": "ScriptBase/upset_plot_pvalue.R",
+    "upset_plot_padjust": "ScriptBase/upset_plot_padjust.R",
+    "heatmap_plot_padjust": "ScriptBase/heatmap_plot_padjust.R",
+    "heatmap_plot_pvalue": "ScriptBase/heatmap_plot_pvalue.R"
+  }
+}
