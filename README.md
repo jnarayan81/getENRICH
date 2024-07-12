@@ -19,7 +19,7 @@ getENRICH requires the following dependencies to be installed:
 
 •	jq
  
- R dependencies:
+ #### R dependencies:
  
 •	R 4.4.1
 
