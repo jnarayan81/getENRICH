@@ -9,3 +9,24 @@ Clone the repository using git:
 git clone https://github.com/jnarayan81/getENRICH.git
 
 # Dependencies
+getENRICH requires the following dependencies to be installed:
+
+	Secure internet connection
+ 
+	Bash dependencies:
+•	wget
+•	jq
+	R dependencies:
+•	R 4.4.1
+•	Required libraries:
+o	jsonlite 1.8.8
+o	dplyr 1.1.4
+o	tidyverse 2.0.0
+o	clusterProfiler 4.12.0
+o	pheatmap 1.0.12
+o	visNetwork 2.1.2
+o	enrichplot 1.24.0
+o	ggplot2 3.5.1
+o	UpSetR 1.4.0
+o	pathview 1.44.0
+o	plotly 4.10.4
