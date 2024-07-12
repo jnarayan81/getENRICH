@@ -61,13 +61,14 @@ o	cowplot 1.1.3
 This flag allows the user to delete any previous result folders before running a new analysis. This can be useful for ensuring that old results do not interfere with new ones. If this flag is not used, then the old folder will be over-written with the contents of the new folder.
 Usage Example:
 ./getENRICH -c config.json -f
-2.	-g (p-value and p.adjust significance threshold value)
+##### 2.	-g (p-value and p.adjust significance threshold value)
 This flag sets the significance threshold for both p-value and adjusted p-value. The default value is 0.05, but the user can specify a different threshold if needed. If there are no P-value or P-adjust values below the set threshold in the resultant Excel file generated, blank plots for P-adjust and P-value will be generated.
 Usage Example:
 ./getENRICH -c config.json -g 0.01
 
 In this example, the threshold is set to 0.01, so all the P-values and adjusted P-values which are below 0.01 will be plotted in the resultant graphs and plots and if there are no P-value or adjusted P-values below the set threshold in the resultant Excel file generated, blank plots for P-adjust and P-value will be generated.
-3.	-i (generate heatmap of p-value significant pathways)
+
+##### 3.	-i (generate heatmap of p-value significant pathways)
 This flag generates a heatmap for pathways that are significant based on the p-value. This visualisation helps in identifying patterns and clusters of significant pathways.
 Usage Example:
 ./getENRICH -c config.json -i
