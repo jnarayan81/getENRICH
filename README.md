@@ -72,39 +72,48 @@ In this example, the threshold is set to 0.01, so all the P-values and adjusted 
 This flag generates a heatmap for pathways that are significant based on the p-value. This visualisation helps in identifying patterns and clusters of significant pathways.
 Usage Example:
 ./getENRICH -c config.json -i
-4.	-j (generate heatmap of p.adjust significant pathways)
+
+##### 4.	-j (generate heatmap of p.adjust significant pathways)
 Similar to -i, this flag generates a heatmap but for pathways significant based on the adjusted p-value.
 Usage Example:
 ./getENRICH -c config.json -j
-5.	-k (generate upset plot of p-value significant pathways)
+
+##### 5.	-k (generate upset plot of p-value significant pathways)
 This flag generates an upset plot for pathways significant based on the p-value. Upset plots are useful for visualising the intersections of sets.
 Usage Example:
 ./getENRICH -c config.json -k
-6.	-l (generate upset plot of p.adjust significant pathways)
+
+##### 6.	-l (generate upset plot of p.adjust significant pathways)
 Similar to -k, this flag generates an upset plot but for pathways significant based on the adjusted p-value.
 Usage Example:
 ./getENRICH -c config.json -l
-7.	-m (generate treeplot of p-value significant pathways)
+
+##### 7.	-m (generate treeplot of p-value significant pathways)
 This flag generates a tree plot for pathways significant based on the p-value. Tree plots help in visualising hierarchical relationships.
 Usage Example:
 ./getENRICH -c config.json -m
-8.	-n (generate treeplot of p.adjust significant pathways)
+
+##### 8.	-n (generate treeplot of p.adjust significant pathways)
 Similar to -m, this flag generates a tree plot but for pathways significant based on the adjusted p-value.
             Usage Example:
 ./getENRICH -c config.json -n
-9.	-o (generate pubMed trends plot of p-value significant pathways)
+
+##### 9.	-o (generate pubMed trends plot of p-value significant pathways)
 This flag generates a PubMed trends plot for pathways significant based on the p-value. This plot shows the publication trends over time for the significant pathways.
 Usage Example:
 ./getENRICH -c config.json -o
-10.	-p (generate pubMed trends plot of p.adjust significant pathways)
+
+##### 10.	-p (generate pubMed trends plot of p.adjust significant pathways)
 Similar to -o, this flag generates a PubMed trends plot but for pathways significant based on the adjusted p-value.
 Usage Example:
 ./getENRICH -c config.json -p
-11.	-v (generate KEGG pathway diagrams of p-value significant pathways)
+
+##### 11.	-v (generate KEGG pathway diagrams of p-value significant pathways)
 This flag generates KEGG pathway diagrams for pathways significant based on the p-value. KEGG pathway diagrams are useful for understanding the biological pathways involved.
 Usage Example:
 ./getENRICH -c config.json -v
-12.	-a (generate KEGG pathway diagrams of p.adjust significant pathways)
+
+##### 12.	-a (generate KEGG pathway diagrams of p.adjust significant pathways)
 Similar to -v, this flag generates KEGG pathway diagrams but for pathways significant based on the adjusted p-value.
 Usage Example:
 ./getENRICH -c config.json -a
