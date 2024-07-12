@@ -10,9 +10,10 @@ git clone https://github.com/jnarayan81/getENRICH.git
 
 # Dependencies
 getENRICH requires the following dependencies to be installed:
-	Secure internet connection
+
+Secure internet connection
  
-	Bash dependencies:
+Bash dependencies:
 •	wget
 •	jq
 	R dependencies:
