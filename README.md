@@ -14,9 +14,10 @@ getENRICH requires the following dependencies to be installed:
 Secure internet connection
  
 Bash dependencies:
-•	wget
-•	jq
-	R dependencies:
+   •	wget
+   •	jq
+ 
+ R dependencies:
 •	R 4.4.1
 •	Required libraries:
 o	jsonlite 1.8.8
