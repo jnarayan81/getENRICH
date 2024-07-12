@@ -14,7 +14,9 @@ getENRICH requires the following dependencies to be installed:
 Secure internet connection
  
 Bash dependencies:
+
 •	wget
+
 •	jq
  
  R dependencies:
