@@ -51,10 +51,10 @@ o	cowplot 1.1.3
 
 
 # Usage
-####COMPULSORY FLAG:
+#### COMPULSORY FLAG:
 ./getENRICH -c config.json -a
 
-####OPTIONAL FLAGS:
+#### OPTIONAL FLAGS:
 
 
 1.	-f (delete previous folders of result)
