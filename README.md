@@ -57,7 +57,7 @@ o	cowplot 1.1.3
 #### OPTIONAL FLAGS:
 
 
-1.	-f (delete previous folders of result)
+##### 1.	-f (delete previous folders of result)
 This flag allows the user to delete any previous result folders before running a new analysis. This can be useful for ensuring that old results do not interfere with new ones. If this flag is not used, then the old folder will be over-written with the contents of the new folder.
 Usage Example:
 ./getENRICH -c config.json -f
