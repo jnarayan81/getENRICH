@@ -46,3 +46,5 @@ o	UpSetR 1.4.0
 o	pathview 1.44.0
 
 o	plotly 4.10.4
+
+o	cowplot 1.1.3
