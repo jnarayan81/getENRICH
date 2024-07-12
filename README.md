@@ -7,3 +7,5 @@ getENRICH is designed to address the unique needs of researchers working with no
 Clone the repository using git:
 
 git clone https://github.com/jnarayan81/getENRICH.git
+
+# Dependencies
