@@ -52,9 +52,17 @@ o	cowplot 1.1.3
 
 # Usage
 #### COMPULSORY FLAG:
-./getENRICH -c config.json -a
+./getENRICH -c config.json
+
+##### 1.	-c (config.json file)
+
+This flag specifies the configuration file that contains the necessary parameters and settings for running the tool. The config.json file should be formatted correctly and include all required fields. It is the compulsory flag and the minimum flag the user requires to run the enrichment analysis. 
+
+
 
 #### OPTIONAL FLAGS:
+
+./getENRICH -c config.json -f -i -j -k -l -m -n -o -p -v -a -g 0.05
 
 
 ##### 1.	-f (delete previous folders of result)
