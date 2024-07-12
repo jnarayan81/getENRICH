@@ -23,7 +23,7 @@ getENRICH requires the following dependencies to be installed:
  
 •	R 4.4.1
 
-•	Required libraries:
+##### Required libraries:
 
 o	jsonlite 1.8.8
 
