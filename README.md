@@ -1,5 +1,8 @@
 # getENRICH
 
+![getEENRICH3](https://github.com/user-attachments/assets/2447b04a-54b4-4538-8aa1-9338a1f044ee)
+
+
 ![getENRICH Banner](https://via.placeholder.com/800x200.png?text=getENRICH+-+Automated+Pipeline+for+Enrichment+Analysis)
 
 [![Build Status](https://img.shields.io/github/workflow/status/jnarayan81/getENRICH/CI)](https://github.com/jnarayan81/getENRICH/actions)
