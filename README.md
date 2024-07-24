@@ -207,7 +207,8 @@ Similar to `-v`, this flag generates KEGG pathway diagrams but for pathways sign
 
 ## Flowchart
 
-![KASS Annotation file](https://github.com/user-attachments/assets/41060ae5-b63a-45a4-8ea8-9ac124eb7a31)
+![pdfresizer com-pdf-crop](https://github.com/user-attachments/assets/88102c61-ba3a-454b-adba-27554d26b3b2)
+
 
 ## News
 
