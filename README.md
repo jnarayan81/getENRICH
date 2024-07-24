@@ -1,7 +1,7 @@
 # getENRICH
 
 ![getEENRICH_logo Copy_page-0001](https://github.com/user-attachments/assets/7ed03485-fc2e-4c48-9316-0afef73237f6)
-![repo status](https://img.shields.io/badge/repo%20status-Active-Dark green?style=flat)
+![repo status](https://img.shields.io/badge/repo%20status-Active-yellow?style=flat)
 
 
 
