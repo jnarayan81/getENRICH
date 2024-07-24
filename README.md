@@ -5,12 +5,8 @@
 
 
 
-[![Build Status](https://img.shields.io/github/workflow/status/jnarayan81/getENRICH/CI)](https://github.com/jnarayan81/getENRICH/actions)
-[![License](https://img.shields.io/github/license/jnarayan81/getENRICH)](https://github.com/jnarayan81/getENRICH/blob/main/LICENSE)
-[![Version](https://img.shields.io/github/v/release/jnarayan81/getENRICH)](https://github.com/jnarayan81/getENRICH/releases)
-[![Issues](https://img.shields.io/github/issues/jnarayan81/getENRICH)](https://github.com/jnarayan81/getENRICH/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/jnarayan81/getENRICH)](https://github.com/jnarayan81/getENRICH/pulls)
-[![Code Coverage](https://img.shields.io/codecov/c/github/jnarayan81/getENRICH)](https://codecov.io/gh/jnarayan81/getENRICH)
+![release version](https://img.shields.io/badge/release%20version-0.1-green?style=flat)
+
 
 **getENRICH** - Automated pipeline for enrichment analysis in non-model organisms!
 
