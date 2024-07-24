@@ -1,12 +1,16 @@
 # getENRICH
 
-![repo status](https://img.shields.io/badge/repo%20status-Active-yellow?style=flat)
-[![Documentation](https://img.shields.io/badge/Documentation-pdf-blue?style=flat&link=https://github.com/jnarayan81/getENRICH/blob/main/getENRICH%20documentation.pdf)](https://github.com/jnarayan81/getENRICH/blob/main/getENRICH%20documentation.pdf)
 ![getEENRICH_logo Copy_page-0001](https://github.com/user-attachments/assets/7ed03485-fc2e-4c48-9316-0afef73237f6)
 
 
-
+![repo status](https://img.shields.io/badge/repo%20status-Active-yellow?style=flat)
+[![Documentation](https://img.shields.io/badge/Documentation-pdf-blue?style=flat&link=https://github.com/jnarayan81/getENRICH/blob/main/getENRICH%20documentation.pdf)](https://github.com/jnarayan81/getENRICH/blob/main/getENRICH%20documentation.pdf)
 ![release version](https://img.shields.io/badge/release%20version-0.1-green?style=flat)
+
+
+
+
+
 
 
 **getENRICH** - Automated pipeline for enrichment analysis in non-model organisms!
