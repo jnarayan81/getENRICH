@@ -66,6 +66,7 @@ git clone https://github.com/jnarayan81/getENRICH.git
 - `cowplot` 1.1.3
 
 ## Usage
+You can check for the format of input files and setting config file in the documentation.
 
 ### Compulsory Flag
 
